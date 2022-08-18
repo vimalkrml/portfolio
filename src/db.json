@@ -1,0 +1,112 @@
+{
+  "about": [
+    {
+      "name": "Hey, Vimal here!",
+      "describe": "I'm a front-end developer with a love for Vue + Vuex, Vuetify.",
+      "content": "Greetings! I currently reside in Salem, Tamil Nadu. In the year 2020, I received my degree in electrical and electronic engineering. One may wonder, \"Why software?\" I started improving my web development skills since I am interested in creating websites. The majority of my days are spent studying new technology. You can find me listening to music when I am not developing code. I have learned a lot about Vue Frameworks in the less than a year that I have worked as a front-end developer using Vue.JS. I developed a few projects like task manager, blog newsletter and recreating webpages using Tailwind CSS."
+    }
+  ],
+  "skills": [
+    {
+      "id": "1",
+      "title": "Bootstrap",
+      "about": "Powerful, extensible, and feature-packed frontend toolkit. Build and customize with Sass, utilize prebuilt grid system and components, and bring projects to life with powerful JavaScript plugins.",
+      "learnmore": "https://getbootstrap.com/",
+      "level": "Professional Working Proficiency"
+    },
+    {
+      "id": "2",
+      "title": "Tailwind CSS",
+      "about": "Tailwind CSS is basically a utility-first CSS framework for rapidly building custom user interfaces. It is a highly customizable, low-level CSS framework that gives you all of the building blocks you need to build bespoke designs without any annoying opinionated styles you have to fight to override.",
+      "learnmore": "https://tailwindcss.com/",
+      "level": "Full Professional Proficiency"
+    },
+    {
+      "id": "3",
+      "title": "REST API",
+      "about": "A request is sent from client to server in the form of a web URL as HTTP GET or POST or PUT or DELETE request. After that, a response comes back from the server in the form of a resource which can be anything like HTML, XML, Image, or JSON.",
+      "learnmore": "https://www.geeksforgeeks.org/rest-api-introduction/",
+      "level": "Limited Working Proficiency"
+    },
+    {
+      "id": "4",
+      "title": "JSON (Database)",
+      "about": "It is a text-based way of representing JavaScript object literals, arrays, and scalar data. JSON is relatively easy to read and write, while also easy for software to parse and generate. It is often used for serializing structured data and exchanging it over a network, typically between a server and web applications.",
+      "learnmore": "https://www.json.org/json-en.html",
+      "level": "Professional Working Proficiency"
+    },
+    {
+      "id": "5",
+      "title": "Vue JS",
+      "about": "Vue. js is a javascript framework that developers mainly use to create interactive user interfaces. When compared to AngularJS, this framework is lighter and more adaptable, which is why many developers, from beginners to experts, prefer it.",
+      "learnmore": "https://vuejs.org/",
+      "level": "Professional Working Proficiency"
+    },
+    {
+      "id": "6",
+      "title": "Vuex",
+      "about": "Vuex is a state management pattern + library for Vue. js applications. It serves as a centralized store for all the components in an application, with rules ensuring that the state can only be mutated in a predictable fashion.",
+      "learnmore": "https://vuex.vuejs.org/",
+      "level": "Professional Working Proficiency"
+    },
+    {
+      "id": "7",
+      "title": "Vuetify",
+      "about": "Vuetify is a complete UI framework built on top of Vue. js. The goal of the project is to provide developers with the tools they need to build rich and engaging user experiences.",
+      "learnmore": "https://vuetifyjs.com/en/",
+      "level": "Professional Working Proficiency"
+    }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "image": "../src/assets/piroll.png",
+      "tag1": "HTML5",
+      "tag2": "CSS3",
+      "tag3": "JavaScript",
+      "title": "Simple HTML5 and CSS3 Project",
+      "content": "My initial project was created using basic HTML5, CSS3, and minimal JavaScript. I used BEM (Block Element Modifier), a naming convention methodology for class names in HTML and CSS, to accomplish this. Clean CSS writing is advantageous. The website works on all screen sizes and is completely responsive.",
+      "git": "https://github.com/vimalkrml/pirolldesign.git"
+    },
+    {
+      "id": "2",
+      "image": "../src/assets/clpage.png",
+      "tag1": "TailWind CSS",
+      "tag2": "JavaScript",
+      "tag3": "Node-Packages",
+      "title": "Simple Tailwind Project",
+      "content": "Using Tailwind CSS, I created a fully responsive second project. This is set up using node.js as a package. I deployed the Parcel JavaScript Compiler for hosting. I use a straightforward website for design. Essentially a utility-first CSS framework, Tailwind CSS allows designers to quickly create unique user interfaces. It is a low-level CSS framework that is extremely adaptable and provides all the building blocks required to create custom designs without requiring you to struggle to overcome obnoxious, opinionated styles.",
+      "git": "https://github.com/vimalkrml/Vimal-ResponsiveCL.git"
+    },
+    {
+      "id": "3",
+      "image": "../src/assets/airbnb.png",
+      "tag1": "Tailwind CSS",
+      "tag2": "JavaScript",
+      "tag3": "Node-Packages",
+      "title": "Complex Tailwind Project",
+      "content": "This time, I chose to develop a complex website using the same Tailwind CSS that is totally responsive. Node.js is used to install packages. For hosting, I set up the Parcel JavaScript Compiler. Tailwind CSS is essentially a utility-first CSS framework that enables designers to swiftly produce distinctive user interfaces. It is a low-level CSS framework that is very versatile and offers all the building blocks necessary to develop custom designs without having you struggle to overcome annoying, opinionated styles.",
+      "git": "https://github.com/vimalkrml/final-project-airbnb.git"
+    },
+    {
+      "id": "4",
+      "image": "../src/assets/blog.png",
+      "tag1": "Tailwind CSS",
+      "tag2": "Vue JS",
+      "tag3": "Json Server",
+      "title": "Blog-NewsLetter",
+      "content": "I began working on a new project as soon as I finished learning Vue JS. This project is a blog with a news feed. It contains two pages: the home page and the create page. The JSON Server database is compatible with this, and it is fully functional. Styling is accomplished with Tailwind CSS. Only when we create a new blog from the create page, a feed that is shown on the main page is displayed. The virtual DOM, data binding, routing, event handling, etc. are all utilised by the Vue framework. One of VueJS's key features, components enable the creation of unique elements that can be reused in HTML. My project is viewable on GitHub. After downloading, execute npm install, npm run serve and npm run json in your terminal.",
+      "git": "https://github.com/vimalkrml/vue-blogproject-collab.git"
+    },
+    {
+      "id": "5",
+      "image": "../src/assets/task.png",
+      "tag1": "Tailwind CSS",
+      "tag2": "Vue JS, Vuex, Vuetify",
+      "tag3": "Json Server",
+      "title": "Task Manager",
+      "content": "Using Vue, Vuex, and Vuetify, I completed this. A  straightforward task organiser with just two pages—one for tasks and another for users. On both pages, we have the option to add and remove content. On the task page, other options like editing and previewing will be accessible. Since it is completely functional, the JSON Server serves as a database. Tailwind CSS is used for styling. Vuex and Vuetify information For applications using Vue. js, there is a state management technique and library called Vuex. A handcrafted collection of Material Components, Vuetify is a Vue UI library. You have access to all the tools you need to build incredible applications. Visit GitHub to see my project. After downloading, execute npm install, npm run serve and npm run json in your terminal.",
+      "git": "https://github.com/vimalkrml/taskmanager-collabrative.git"
+    }
+  ]
+}
